@@ -1,0 +1,19 @@
+import os
+
+api_key = 'ASJqRDt2PRQLIJxDD2AwR1va6'
+secret_api = 'LliOsn5lgR89H0JTrR970Lek5D4IlzCxaITwEkLmkUmMc38jSa'
+access_token = '1595547432204410880-Ai1RtTmfX6KF4BjrN8DaH8wMc91I5L'
+access_secret = 'uxSrHKlUJ0RWHtVSD9EyRjfdZZ3xEVWUKSGSizr0r2ksA'
+bearer = 'AAAAAAAAAAAAAAAAAAAAAMHZjgEAAAAARJvO5uJYpjHOWqu8OwxKR821Pus%3Dm15G8xeVqX6HqqjL5r7QFBLyMpneH6ou34JCd3ZCuKzPH4V9xA'
+client_id = 'ckpUSGdaZGNjMmRTMURIX3hiN3U6MTpjaQ'
+client_secret = 'KN_poEEHIXRiJw3RebcUrZAHCF90atCdmWTHXDNdcFp5xU7k2K'
+caleb_twitter_id = '876618315673739264'
+
+# spotify
+s_client_id = 'caa579f4b0bb417996f0235d80472a07'
+s_client_secret = '68b42aff00f14fec85e67b6638b92f64'
+s_encode = 'Y2FhNTc5ZjRiMGJiNDE3OTk2ZjAyMzVkODA0NzJhMDc6NjhiNDJhZmYwMGYxNGZlYzg1ZTY3YjY2MzhiOTJmNjQ='
+s_access_token = 'BQBmfRkNY0mb8JVJtAPvzEuQr0QKSHPY0XKQnQZ92WzxMSHSo-slbBu-t8WKCTFcdOIoB0rTT1vMVJt0gmTT3YpY5UznccNdrxpB4IcmNblVN4Na_mYfykxCfCu1Poj5crPuRjj5YgXQNFyxDYzi-Tsy4QjzgGuSuI02UiM0BPsR71jo1oxt_wwJUGO4Uo8'
+s_refresh_token = 'AQBUXGjxWkw4VRwW6Dlmiq12fSMc_Ufsjz6I4VwXgTIW6Q_yFE4fLduZwUoaB-9hs69m8cwzcZoGPZBsoAypYWwhjcAyeJ9NEDOSEFOSaih5_mcM-z-q9G2pp_b1xExN5Es'
+
+# curl -H "Authorization: Basic Y2FhNTc5ZjRiMGJiNDE3OTk2ZjAyMzVkODA0NzJhMDc6NjhiNDJhZmYwMGYxNGZlYzg1ZTY3YjY2MzhiOTJmNjQ=" -d grant_type=authorization_code -d code=AQAOZxjtArmHcPJi46NqDaU2g3zkaTedopzI24ynq5hqknE0qpNd8hBA-2qJCO-C3uZkA-ApaGXCURJGL7_R4WP9wOsoAgYiLGZwLQwNvmkFj3LYhz_lQXmi5vyhPH7fFoEFAeu5uIf8MF7LpRrmIHEsJbS_OAUSImwesH_qds65BpdiHURD74_x41kLdKra2KVz3omtvdkPgczkixlQH2HwjmMSRXJmG188Eeo -d redirect_uri=https%3A%2F%2Fbrendanwagoner.github.io%2FFinal-Website-v1%2F https://accounts.spotify.com/api/token --ssl-no-revoke
